@@ -6,36 +6,37 @@
         <content_page/>
         <device_type/>
         <filter/>
-        <hint>List of all Loaner Request records in the database.</hint>
+        <hint/>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>DIRECT</link_type>
         <map_page/>
-        <mobile_title>Loaner Requests</mobile_title>
+        <mobile_title>Properties</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_cdltd_loaners_re_loaner_request</name>
-        <order/>
+        <name/>
+        <order>700</order>
         <override_menu_roles>false</override_menu_roles>
-        <query/>
+        <query>system_properties_ui.do?sysparm_title=Loaner Request&#13;
+Properties&amp;sysparm_category=Loaner Request</query>
         <report/>
         <roles>x_cdltd_loaners_re.admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-02-11 21:13:28</sys_created_on>
+        <sys_created_on>2019-02-13 17:02:21</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>63226bf9f4e323007f44a6d2d2526a38</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>All</sys_name>
+        <sys_id>838bfc2ef42f23007f44a6d2d2526aa5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Properties</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaners Request" source="x_cdltd_loaners_re">984b9779f4e323007f44a6d2d2526a93</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaners Request">984b9779f4e323007f44a6d2d2526a93</sys_scope>
-        <sys_update_name>sys_app_module_63226bf9f4e323007f44a6d2d2526a38</sys_update_name>
+        <sys_update_name>sys_app_module_838bfc2ef42f23007f44a6d2d2526aa5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-02-12 21:29:54</sys_updated_on>
+        <sys_updated_on>2019-02-13 17:02:21</sys_updated_on>
         <timeline_page/>
-        <title>All</title>
+        <title>Properties</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
